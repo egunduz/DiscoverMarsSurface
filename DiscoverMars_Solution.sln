@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscoverMarsSurfaceWindows", "DiscoverMarsSurfaceWF\DiscoverMarsSurfaceWindows.csproj", "{A244E4E3-5AF9-46B3-8613-E63CA9E1A2CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscoverMarsSurfaceConsole", "DiscoverMarsSurfaceConsole\DiscoverMarsSurfaceConsole.csproj", "{F0CC0E93-2FA7-4BC4-B4DE-C7481675360D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReadMe", "ReadMe", "{F14DD323-AECC-41BA-B862-D9A4C50B4349}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A244E4E3-5AF9-46B3-8613-E63CA9E1A2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A244E4E3-5AF9-46B3-8613-E63CA9E1A2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A244E4E3-5AF9-46B3-8613-E63CA9E1A2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A244E4E3-5AF9-46B3-8613-E63CA9E1A2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0CC0E93-2FA7-4BC4-B4DE-C7481675360D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0CC0E93-2FA7-4BC4-B4DE-C7481675360D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0CC0E93-2FA7-4BC4-B4DE-C7481675360D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0CC0E93-2FA7-4BC4-B4DE-C7481675360D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6217A24A-4CB8-43B9-90AE-A2823DBB0C35}
+	EndGlobalSection
+EndGlobal
