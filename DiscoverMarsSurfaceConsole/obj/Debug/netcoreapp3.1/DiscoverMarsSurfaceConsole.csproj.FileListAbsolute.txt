@@ -1,0 +1,17 @@
+D:\Users\admin\source\repos\DiscoverMars_Solution\DiscoverMarsSurfaceConsole\obj\Debug\netcoreapp3.1\DiscoverMarsSurfaceConsole.csproj.AssemblyReference.cache
+D:\Users\admin\source\repos\DiscoverMars_Solution\DiscoverMarsSurfaceConsole\obj\Debug\netcoreapp3.1\DiscoverMarsSurfaceConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\admin\source\repos\DiscoverMars_Solution\DiscoverMarsSurfaceConsole\obj\Debug\netcoreapp3.1\DiscoverMarsSurfaceConsole.AssemblyInfoInputs.cache
+D:\Users\admin\source\repos\DiscoverMars_Solution\DiscoverMarsSurfaceConsole\obj\Debug\netcoreapp3.1\DiscoverMarsSurfaceConsole.AssemblyInfo.cs
+D:\Users\admin\source\repos\DiscoverMars_Solution\DiscoverMarsSurfaceConsole\obj\Debug\netcoreapp3.1\DiscoverMarsSurfaceConsole.csproj.CoreCompileInputs.cache
+D:\Users\admin\source\repos\DiscoverMars_Solution\DiscoverMarsSurfaceConsole\bin\Debug\netcoreapp3.1\DiscoverMarsSurfaceConsole.exe
+D:\Users\admin\source\repos\DiscoverMars_Solution\DiscoverMarsSurfaceConsole\bin\Debug\netcoreapp3.1\DiscoverMarsSurfaceConsole.deps.json
+D:\Users\admin\source\repos\DiscoverMars_Solution\DiscoverMarsSurfaceConsole\bin\Debug\netcoreapp3.1\DiscoverMarsSurfaceConsole.runtimeconfig.json
+D:\Users\admin\source\repos\DiscoverMars_Solution\DiscoverMarsSurfaceConsole\bin\Debug\netcoreapp3.1\DiscoverMarsSurfaceConsole.runtimeconfig.dev.json
+D:\Users\admin\source\repos\DiscoverMars_Solution\DiscoverMarsSurfaceConsole\bin\Debug\netcoreapp3.1\DiscoverMarsSurfaceConsole.dll
+D:\Users\admin\source\repos\DiscoverMars_Solution\DiscoverMarsSurfaceConsole\bin\Debug\netcoreapp3.1\DiscoverMarsSurfaceConsole.pdb
+D:\Users\admin\source\repos\DiscoverMars_Solution\DiscoverMarsSurfaceConsole\bin\Debug\netcoreapp3.1\DiscoverMarsSurfaceLibrary.dll
+D:\Users\admin\source\repos\DiscoverMars_Solution\DiscoverMarsSurfaceConsole\bin\Debug\netcoreapp3.1\DiscoverMarsSurfaceLibrary.pdb
+D:\Users\admin\source\repos\DiscoverMars_Solution\DiscoverMarsSurfaceConsole\obj\Debug\netcoreapp3.1\DiscoverMarsSurfaceConsole.csproj.CopyComplete
+D:\Users\admin\source\repos\DiscoverMars_Solution\DiscoverMarsSurfaceConsole\obj\Debug\netcoreapp3.1\DiscoverMarsSurfaceConsole.dll
+D:\Users\admin\source\repos\DiscoverMars_Solution\DiscoverMarsSurfaceConsole\obj\Debug\netcoreapp3.1\DiscoverMarsSurfaceConsole.pdb
+D:\Users\admin\source\repos\DiscoverMars_Solution\DiscoverMarsSurfaceConsole\obj\Debug\netcoreapp3.1\DiscoverMarsSurfaceConsole.genruntimeconfig.cache

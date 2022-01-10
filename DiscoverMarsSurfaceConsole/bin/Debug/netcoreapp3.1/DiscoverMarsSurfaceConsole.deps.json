@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DiscoverMarsSurfaceConsole/1.0.0": {
+        "dependencies": {
+          "DiscoverMarsSurfaceLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DiscoverMarsSurfaceConsole.dll": {}
+        }
+      },
+      "DiscoverMarsSurfaceLibrary/1.0.0": {
+        "runtime": {
+          "DiscoverMarsSurfaceLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DiscoverMarsSurfaceConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DiscoverMarsSurfaceLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
